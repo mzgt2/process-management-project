@@ -20,7 +20,7 @@ This project automates common Linux administration tasks using scripts. The scri
     git clone <your-repo-url>
     cd service-process-management/scripts
 
-### 2. **Make scripts executable
+### 2. **Make scripts executable**
 
     chmod u+x manage_service.sh manage_process.sh monitor_performance.sh
 
